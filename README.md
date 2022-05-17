@@ -1,4 +1,5 @@
 # NLP Final Competition - Team Wiki
+👉 *Published by HackMD: https://hackmd.io/@KoiSharp/rygtpQAL5*
 ## Proposal
 - We will use [pytorch](https://github.com/pytorch/pytorch) and [huggingface transformers API](https://github.com/huggingface/transformers)
 ### Baseline Proposal
@@ -13,7 +14,7 @@
 - Maybe we can use `SAM` to smooth the loss landscape
 
 ## Pipline
-- [x] [Exploratory Data Analysis](/G_yxOtzOSAuaJNyLjIX3ew)
+- [x] [Exploratory Data Analysis](https://hackmd.io/@KoiSharp/rJ8lRrRIc)
     - [x] Preprocessing
     - [x] Visualization
 - [ ] Baseline
