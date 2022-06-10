@@ -20,5 +20,5 @@
 To reproduce our result, you need to ensure all the code are placed in the right place. And following the instruction below:
 
 1. You need to download all our base model checkpoints from [here](https://drive.google.com/drive/folders/1QknQHaXQwZHlCPwhWAC3l6OAAap31uTk?usp=sharing). And put the downloaded `models` folder in the project root place.
-   - Note that the base models are trained by `Base Model.ipynb`. 
+   - Note that the base models were trained by `Base Model.ipynb`. 
 2. Open the `Master.ipynb` and run all the code cells(Google Colab is recommended).
