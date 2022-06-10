@@ -1,6 +1,6 @@
 # Empathetic Dialogues Sentiment Analysis
 
-🥳 Thanks for my teammate [Max-0729](https://github.com/Max-0729)
+🥳 Thanks to my teammate [Max-0729](https://github.com/Max-0729)
 
 :point_right: Check our [final presentation](https://docs.google.com/presentation/d/149SlUUqYjioZcZIapPJ51buBLMoQRdP4HfOgl9ETHkc/edit?usp=sharing)
 
